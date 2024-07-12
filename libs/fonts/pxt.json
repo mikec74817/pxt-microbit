@@ -1,0 +1,14 @@
+{
+    "name": "fonts",
+    "description": "Fonts for displays (V2 only).",
+    "files": [
+        "font12.jres"
+    ],
+    "public": true,
+    "disablesVariants": [
+        "mbdal"
+    ],
+    "dependencies": {
+        "core": "file:../core"
+    }
+}
