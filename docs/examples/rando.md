@@ -1,4 +1,4 @@
-# Rando
+# Rando 
 
 Generate a random coordinate and display it on the LED screen.
 
